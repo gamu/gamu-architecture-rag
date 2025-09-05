@@ -1,0 +1,5 @@
+
+models/mistral-7b-instruct-v0.1.Q4_K_M.gguf
+llama_cpp_python-0.3.2-cp310-cp310-win_amd64.whl
+llama_cpp_python-0.3.2-cp313-cp313-win_amd64.whl
+__pycache__/db.cpython-313.pyc
